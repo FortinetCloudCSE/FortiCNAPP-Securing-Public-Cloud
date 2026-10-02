@@ -1,7 +1,7 @@
 {
-  "repoName":"UserRepo",
+  "repoName":"FortiCNAPP-Securing-Public-Cloud",
   "author":"Jeff Kopko",
-  "workshopTitle":"Hugo for Fortinet TECWorkshops",
+  "workshopTitle":"Securing Public Cloud with FortiCNAPP",
   "themeVariant":"Workshop",
   "logoBannerText":"Securing Public Cloud with FortiCNAPP",
   "logoBannerSubText":"",
